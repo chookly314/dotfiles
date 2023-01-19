@@ -55,7 +55,8 @@ require('packer').startup(function(use)
   use 'tpope/vim-sleuth' -- Detect tabstop and shiftwidth automatically
 
   -- Golang
-  use 'faith/vim-go'
+  use 'fatih/vim-go'
+
 
   -- Color scheme
   use "olimorris/onedarkpro.nvim"
